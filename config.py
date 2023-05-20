@@ -1,2 +1,2 @@
-email = 'gui@gmail.com'
-senha = '123'
+email = 'contatoguicode@gmail.com'
+senha = 'ksyqimywkmikgljm'
